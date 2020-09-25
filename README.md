@@ -1,3 +1,3 @@
 # TulsiApps
 react native applications
-https://mayurlakhani.github.io/TulsiApps/db.json
+https://mayurlakhani.github.io/TulsiApps/index.html
